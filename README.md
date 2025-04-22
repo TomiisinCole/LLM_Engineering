@@ -12,7 +12,7 @@ Each week's project is contained in its own directory:
 
 - **Week 1**: [Foundations and First Projects](./week1-project/) - Brochure generator that scrapes and navigates company websites
 - **Week 2**: [Data Science Mentor](./week2-ds-mentor/) - AI assistant for data science programming concepts
-- **Week 3**: Coming soon - Tool for meeting minutes from audio recordings
+- **Week 3**: [PrivacyMeet](./week3-PrivacyMeet/) - PrivacyMeet is an open-source, privacy-focused meeting assistant that generates professional meeting minutes from audio recordings without sending any data to third-party services. Everything runs locally, keeping your sensitive conversations private.
 - **Week 4**: Coming soon - Python to C++ code converter
 - **Week 5**: Coming soon - RAG implementation for company knowledge
 - **Week 6**: Coming soon - Fine-tuned Frontier model for price prediction
