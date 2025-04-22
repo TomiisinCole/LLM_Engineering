@@ -1,0 +1,104 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+
+# Colab specific
+.config/
+.keras/
+.local/
+.ipython/
+.jupyter/
+.bashrc
+.profile
+.cache/
+.wget-hsts
+
+# Credentials and secrets
+.env
+.secret
+*.pem
+*.key
+credentials.json
+token.json
+*_token*
+*.credentials
+secrets.yaml
+secrets.yml
+secrets.json
+secrets.toml
+.netrc
+
+# Model files (often large)
+*.pt
+*.pth
+*.bin
+*.onnx
+*.tflite
+*.pb
+*.safetensors
+*.gguf
+
+# Audio and transcript files
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.ogg
+*.flac
+*.txt
+*.md
+!README.md
+
+# Generated content
+*_minutes.md
+*_transcript.txt
+output/
+results/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
