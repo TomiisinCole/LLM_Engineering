@@ -1,0 +1,43 @@
+notion-client==2.0.0
+python-dotenv==1.0.0
+openai==1.12.0
+requests==2.31.0
+tqdm==4.66.1
+chromadb==0.4.22
+langchain==0.1.8
+langchain-openai==0.0.5
+tiktoken==0.5.2
+pandas==2.1.3
+pydantic==2.5.2
+loguru==0.7.2
+fastapi==0.109.0
+uvicorn==0.25.0
+python-multipart==0.0.6
+
+# Day 2 additional requirements
+tiktoken==0.5.2           # For token counting (used by OpenAI)
+tqdm==4.66.1              # For progress bars
+regex==2023.10.3          # For advanced text processing
+html2text==2020.1.16      # For HTML content conversion
+
+# Day 2 afternoon requirements
+openai==1.12.0          # For OpenAI API access
+backoff==2.2.1          # For exponential backoff on API calls
+chromadb==0.4.22        # Vector database
+numpy==1.26.3           # Array operations for embeddings
+requests==2.31.0        # HTTP requests library
+tqdm==4.66.1            # Progress bars
+loguru==0.7.2           # Better logging
+
+# Requirements for LangChain implementation
+langchain==0.1.8
+langchain-openai==0.0.5
+chromadb==0.4.22
+tiktoken==0.5.2
+tqdm==4.66.1
+loguru==0.7.2
+
+# Minimal requirements for the simplified implementation
+python-dotenv==1.0.0
+requests==2.31.0
+chromadb==0.4.22
