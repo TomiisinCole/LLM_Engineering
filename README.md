@@ -14,7 +14,7 @@ Each week's project is contained in its own directory:
 - **Week 2**: [Data Science Mentor](./week2-ds-mentor/) - AI assistant for data science programming concepts
 - **Week 3**: [PrivacyMeet](./week3-PrivacyMeet/) -  Privacy-first meeting minutes generator that processes audio recordings locally using Whisper and Llama models. Generates professional summaries, action items, and attendee lists without sending sensitive data to external services.
 - **Week 4**: Coming soon - Python to C++ code converter
-- **Week 5**: Coming soon - RAG implementation for company knowledge
+- **Week 5**: [TechNova_Knowledge Assistant](./week5-TechNova_RAG/) - RAG implementation for company knowledge
 - **Week 6**: Coming soon - Fine-tuned Frontier model for price prediction
 - **Week 7**: Coming soon - Fine-tuned open-source model competing with Frontier models
 - **Week 8**: Coming soon - Autonomous agent system
